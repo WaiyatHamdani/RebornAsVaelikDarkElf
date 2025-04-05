@@ -32,7 +32,7 @@ Yet none of that compared to the day it happened—the day he first used Devour.
 
 It started in the palace courtyard, under the watchful gaze of noble observers. A sparring match had been arranged—under the guise of training, but everyone knew the truth. It was a test. Or more accurately, a provocation.
 
-His opponent: a smug, sharp-tongued noble brat from House Telyss. Older, taller, and already trained. His tunic bore a golden crest and shimmered with light enchantments. The boy grinned, twirling his blade lazily.
+His opponent: a smug, sharp-tongued noble brat named Jerrod from House Telyss. Older, taller, and already trained. His tunic bore a golden crest and shimmered with light enchantments. The boy grinned, twirling his blade lazily.
 
 “I heard you’re supposed to be some kind of prodigy,” the boy sneered, cracking his knuckles. “But all I see is a pampered mutt.”
 
