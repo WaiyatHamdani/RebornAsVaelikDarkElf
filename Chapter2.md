@@ -1,12 +1,12 @@
-Chapter 2: Devourer Unique skill Unlock
+Chapter 2: Devourer Unique Skill Unlock
 
-Vaelik’s new life as a dark elf noble had not turned out to be the magical dreamland he’d once imagined.
+Vaelik’s new life as a dark elf noble had not turned out to be the magical dream he had once imagined.
 
-The grand palace halls of House Vael'thryn, carved from obsidian and adorned with glowing violet runes, were cold and eerily silent. Gone were the comforts of his past life—no cartoons, no leftover pizza, no lazy mornings. In their place came bruises, sweat-soaked tunics, and splitting headaches from overexposure to raw, ancient magic.
+The grand halls of House Vael'thryn, carved from obsidian and adorned with glowing violet runes, were cold and eerily silent. Gone were the comforts of his past life—no cartoons, no leftover pizza, no lazy mornings. Instead, there were bruises, sweat-soaked tunics, and splitting headaches from exposure to raw, ancient magic.
 
-“Again!” barked Master Kael, a scar-faced sword instructor with a voice like grinding stone. His stern demeanor left no room for excuses. “Your form was sloppy. Tighten your stance. Feel the blade—don’t just swing it like a club.”
+“Again!” barked Master Kael, a scar-faced sword instructor with a voice like grinding stone. His stern demeanor left no room for excuses. “Your form is sloppy. Tighten your stance. Feel the blade—don’t just swing it like a club.”
 
-Vaelik grunted and repositioned himself, small fingers wrapped tightly around the hilt of his training sword. He still wasn’t used to this body. It was faster, stronger, more agile than his old human frame, but every movement felt borrowed—like wearing someone else’s skin. Reflexes failed him more often than not.
+Vaelik grunted and repositioned himself, his small fingers wrapped tightly around the hilt of his training sword. He still wasn’t used to this body. It was faster, stronger, more agile than his old human frame, but every movement felt foreign—like wearing someone else’s skin. Reflexes failed him more often than not.
 
 Every morning began with rigorous training under Kael’s watchful eye: sword drills, evasive maneuvers, and sparring matches with enchanted illusions conjured by glowing crystals. By midday, his arms ached, his ribs throbbed, and his pride lay bruised on the stone floor.
 
@@ -48,28 +48,15 @@ This time, his shadow enveloped him in darkness.
 
 Time slowed.
 
-Vaelik felt something stir inside him. An instinct deeper than memory. A hunger.
-Words rang through his skull like a forgotten incantation:
+Vaelik felt something stir inside him—an instinct deeper than memory. A hunger. Words rang through his skull like a forgotten incantation:
 
-Devour blessing successfully achieved.
-"The Darkness said: You can take your opponent’s skill, up to 12 skills."
-Note: Current skill count: 0 / 12.
+Devour blessing successfully achieved. “The Darkness said: You can take your opponent’s skill, up to 12 skills.” Note: Current skill count: 0/12.
 
-A pulse of magic flowed through him. The noble collapsed—unharmed, but clearly drained of energy.
+A pulse of magic flowed through him. And Vaelik started to collapse.
 
-Silence swept across the training yard. Even Master Kael, usually stone-faced, looked caught off guard.
+That night, Lysira visited him. She was clad in midnight robes, her crimson eyes glowing softly in the dark.
 
-Vaelik stood in the center, panting, heart racing. Something new coursed through his veins. A stolen ability—short-range flicker-step. A phantom’s dance.
-
-“…What was that?” Kael asked quietly, brows furrowed.
-
-Vaelik didn’t answer.
-
-Because even he didn’t know.
-
-That night, Lysira visited him. She was clad in her midnight robes, her crimson eyes glowing softly in the dark.
-
-“You awakened your Devour magic,” she said. Her tone was unreadable. “A rare gift. Ancient. Dangerous.”
+“You’ve awakened your Devour magic,” she said, her tone unreadable. “A rare gift. Ancient. Dangerous.”
 
 Vaelik clenched his fists beneath the bedsheets. “Is it… evil?”
 
@@ -103,9 +90,7 @@ It wrapped the assassin in a cocoon of living shadow. Not draining blood—but s
 
 A voice echoed inside him again:
 
-Target possesses skill: Perception-Eyes.
-Devour successful. Skill assimilated.
-Current skill count: 1 / 12.
+Target possesses skill: Perception-Eyes. Devour successful. Skill assimilated. Current skill count: 1/12.
 
 The assassin fell limp.
 
