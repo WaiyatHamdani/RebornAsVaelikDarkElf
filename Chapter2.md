@@ -1,4 +1,6 @@
-Chapter 2: Devourer Unique Skill Unlock
+ Chapter 2: Devourer Unique Skill Unlock
+
+
 
 Vaelik’s new life as a dark elf noble had not turned out to be the magical dream he had once imagined.
 
@@ -22,7 +24,7 @@ At first, there was nothing. Just the oppressive weight of silence and an overwh
 
 Then more came.
 
-Claws. Tendrils. Shapes with no bodies. Eyes that blinked open from thin air, gazing at him with unknowable intent.
+Darken shapes with no bodies. Eyes that blinked open from thin air, gazing at him with unknowable intent.
 
 Terrifying.
 
@@ -41,16 +43,17 @@ Vaelik’s blood burned. He said nothing.
 The boy lunged forward, fast and arrogant. Vaelik barely deflected the strike before his sword was knocked clean from his hand.
 
 Laughter erupted from the sidelines.
-
 Another attack came—but something changed.
-
 This time, his shadow enveloped him in darkness.
-
 Time slowed.
 
-Vaelik felt something stir inside him—an instinct deeper than memory. A hunger. Words rang through his skull like a forgotten incantation:
+Vaelik felt something stir inside him—an instinct deeper than memory. A hunger. 
+Words rang through his skull like a forgotten incantation:
 
-Devour blessing successfully achieved. “The Darkness said: You can take your opponent’s skill, up to 12 skills.” Note: Current skill count: 0/12.
+        Devour blessing successfully achieved.
+         “The Darkness said: You can take your opponent’s skill, up to 12 skills.”
+         Note: Current skill count: 0/12.
+
 
 A pulse of magic flowed through him. And Vaelik started to collapse.
 
@@ -82,15 +85,20 @@ His shadow erupted.
 
 Black tendrils lashed out, coiling around the attacker’s legs and dragging them down with inhuman force.
 
-Devour.
+                Devour.
 
 This time, the darkness did not hesitate.
+
+
 
 It wrapped the assassin in a cocoon of living shadow. Not draining blood—but something deeper. The essence of skill, of motion, of awareness.
 
 A voice echoed inside him again:
 
-Target possesses skill: Perception-Eyes. Devour successful. Skill assimilated. Current skill count: 1/12.
+        Target possesses skill: Perception-Eyes.
+         Devour successful. Skill assimilated.
+         note: Current skill count: 1/12.
+
 
 The assassin fell limp.
 
